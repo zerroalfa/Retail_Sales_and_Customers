@@ -1,4 +1,4 @@
-![8 Retail Sales and Customers](https://github.com/user-attachments/assets/c548973b-269a-483d-a0a6-50b3bdb1844f)# Retail_Sales_and_Customers
+# Retail_Sales_and_Customers
 this is my 8th project with Quantum Analytics
 
 ## Table of Contents
